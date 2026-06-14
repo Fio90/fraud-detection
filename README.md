@@ -225,4 +225,4 @@ both correlation analysis and XGBoost feature importance
 
 **Frederick Amartey-Fio**  
 MSc Big Data — JUNIA ISEN  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/famarteyfio/) | [GitHub](https://github.com/Fio90)
