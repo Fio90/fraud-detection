@@ -1,8 +1,11 @@
 # Data files — too large for GitHub
 data/
 
-# Trained model files — too large for GitHub
-models/
+# Large training data arrays — not needed for the app
+models/X_train_smote.pkl
+models/X_test.pkl
+models/y_train_smote.pkl
+models/y_test.pkl
 
 # Python cache
 __pycache__/
