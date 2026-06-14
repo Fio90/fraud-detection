@@ -32,7 +32,7 @@ like account age, email type, shipping destination, and device patterns.
 
 ## Live Demo
 
-> Coming soon — deploy link will appear here after Streamlit Community Cloud deployment.
+> 🚀 [Live Demo](https://fraud-detection-n6gn77sejezzadho7wqlkj.streamlit.app)
 
 ---
 ## Project Structure
@@ -166,7 +166,7 @@ This is the core value of the two-layer architecture.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/fraud-detection.git
+git clone https://github.com/Fio90/fraud-detection.git
 cd fraud-detection
 ```
 
